@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<meta name="google-site-verification" content="TgSi89vkkzhWL_FaL_7sb1P2uKJOG7KELPtaUJKhhOA" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width, initial-scale=1.0">
     <title>Indian Crypto Tax & Profit Calculator | CoinSathi</title>
